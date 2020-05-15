@@ -1,0 +1,3 @@
+The data for this project was scraped from the Google Play website.
+apps.csv: contains all the details of the applications on Google Play. 
+user_reviews.csv: contains 100 reviews for each app, most helpful first.
